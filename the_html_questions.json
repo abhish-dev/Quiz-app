@@ -40,20 +40,301 @@
     "right_answer": "By Using iFrame Tag"
   },
   {
-    "title": "How Can We Make Element Text Bold",
-    "answer_0": "Putting It Inside <b> Tag",
-    "answer_1": "Putting It Inside <strong> Tag",
-    "answer_2": "Customizing It With Font-Weight Property In CSS",
-    "answer_3": "All Answers Is Right",
-    "right_answer": "All Answers Is Right"
+    "title": "What Is The Purpose Of The <a> Tag",
+    "answer_0": "To Define A Link",
+    "answer_1": "To Define A Paragraph",
+    "answer_2": "To Define A Header",
+    "answer_3": "To Define A Footer",
+    "right_answer": "To Define A Link"
   },
   {
-    "title": "How Can We Include External Page Inside Our HTML Page",
-    "answer_0": "By Using Include in HTML",
-    "answer_1": "By Using Load In HTML",
-    "answer_2": "By Using iFrame Tag",
-    "answer_3": "All Solutions Is Wrong",
-    "right_answer": "By Using iFrame Tag"
+    "title": "How Can We Specify The Language Of The HTML Document",
+    "answer_0": "By Using The lang Attribute On The <html> Tag",
+    "answer_1": "By Using The lang Attribute On The <body> Tag",
+    "answer_2": "By Using The lang Attribute On The <head> Tag",
+    "answer_3": "HTML Documents Don’t Need Language Specification",
+    "right_answer": "By Using The lang Attribute On The <html> Tag"
+  },
+  {
+    "title": "Which Element Is Used To Specify The Header Of A Document",
+    "answer_0": "<header>",
+    "answer_1": "<footer>",
+    "answer_2": "<nav>",
+    "answer_3": "<aside>",
+    "right_answer": "<header>"
+  },
+  {
+    "title": "What Is The Function Of The <title> Tag",
+    "answer_0": "To Specify The Title Of The Document",
+    "answer_1": "To Specify The Main Heading",
+    "answer_2": "To Define A Section",
+    "answer_3": "To Define An Article",
+    "right_answer": "To Specify The Title Of The Document"
+  },
+  {
+    "title": "Which Attribute Is Used To Provide Alternative Text For An Image",
+    "answer_0": "alt",
+    "answer_1": "title",
+    "answer_2": "src",
+    "answer_3": "href",
+    "right_answer": "alt"
+  },
+  {
+    "title": "Which Tag Is Used To Create An Ordered List",
+    "answer_0": "<ol>",
+    "answer_1": "<ul>",
+    "answer_2": "<li>",
+    "answer_3": "<list>",
+    "right_answer": "<ol>"
+  },
+  {
+    "title": "What Is The Default Type Of The <input> Element",
+    "answer_0": "text",
+    "answer_1": "password",
+    "answer_2": "checkbox",
+    "answer_3": "radio",
+    "right_answer": "text"
+  },
+  {
+    "title": "Which Tag Is Used To Create A Table Row",
+    "answer_0": "<tr>",
+    "answer_1": "<td>",
+    "answer_2": "<th>",
+    "answer_3": "<table>",
+    "right_answer": "<tr>"
+  },
+  {
+    "title": "Which Attribute Is Used To Merge Cells Horizontally In A Table",
+    "answer_0": "colspan",
+    "answer_1": "rowspan",
+    "answer_2": "merge",
+    "answer_3": "span",
+    "right_answer": "colspan"
+  },
+  {
+    "title": "How Can We Create A Checkbox In HTML",
+    "answer_0": "Using <input type='checkbox'>",
+    "answer_1": "Using <input type='radio'>",
+    "answer_2": "Using <input type='text'>",
+    "answer_3": "Using <input type='button'>",
+    "right_answer": "Using <input type='checkbox'>"
+  },
+  {
+    "title": "Which Tag Is Used To Create A Line Break",
+    "answer_0": "<br>",
+    "answer_1": "<hr>",
+    "answer_2": "<break>",
+    "answer_3": "<lb>",
+    "right_answer": "<br>"
+  },
+  {
+    "title": "Which Element Represents The Main Content Of The Document",
+    "answer_0": "<main>",
+    "answer_1": "<header>",
+    "answer_2": "<footer>",
+    "answer_3": "<article>",
+    "right_answer": "<main>"
+  },
+  {
+    "title": "How Can We Create A Submit Button In A Form",
+    "answer_0": "Using <input type='submit'>",
+    "answer_1": "Using <input type='button'>",
+    "answer_2": "Using <input type='reset'>",
+    "answer_3": "Using <input type='text'>",
+    "right_answer": "Using <input type='submit'>"
+  },
+  {
+    "title": "Which Tag Is Used To Define An Unordered List",
+    "answer_0": "<ul>",
+    "answer_1": "<ol>",
+    "answer_2": "<li>",
+    "answer_3": "<list>",
+    "right_answer": "<ul>"
+  },
+  {
+    "title": "Which Tag Is Used To Create A Drop-down List",
+    "answer_0": "<select>",
+    "answer_1": "<option>",
+    "answer_2": "<dropdown>",
+    "answer_3": "<list>",
+    "right_answer": "<select>"
+  },
+  {
+    "title": "Which Attribute Is Used To Set The Background Color Of A Page",
+    "answer_0": "bgcolor",
+    "answer_1": "background",
+    "answer_2": "color",
+    "answer_3": "bg",
+    "right_answer": "bgcolor"
+  },
+  {
+    "title": "Which Tag Is Used To Define The Footer Of A Document",
+    "answer_0": "<footer>",
+    "answer_1": "<header>",
+    "answer_2": "<nav>",
+    "answer_3": "<aside>",
+    "right_answer": "<footer>"
+  },
+  {
+    "title": "Which Attribute Is Used To Specify The Source Of An Image",
+    "answer_0": "src",
+    "answer_1": "href",
+    "answer_2": "alt",
+    "answer_3": "link",
+    "right_answer": "src"
+  },
+  {
+    "title": "Which Tag Is Used To Create A Table Header Cell",
+    "answer_0": "<th>",
+    "answer_1": "<td>",
+    "answer_2": "<tr>",
+    "answer_3": "<table>",
+    "right_answer": "<th>"
+  },
+  {
+    "title": "Which Tag Is Used To Define A Paragraph",
+    "answer_0": "<p>",
+    "answer_1": "<h1>",
+    "answer_2": "<div>",
+    "answer_3": "<span>",
+    "right_answer": "<p>"
+  },
+  {
+    "title": "Which Attribute Is Used To Merge Cells Vertically In A Table",
+    "answer_0": "rowspan",
+    "answer_1": "colspan",
+    "answer_2": "merge",
+    "answer_3": "span",
+    "right_answer": "rowspan"
+  },
+  {
+    "title": "Which Tag Is Used To Create A Hyperlink",
+    "answer_0": "<a>",
+    "answer_1": "<link>",
+    "answer_2": "<href>",
+    "answer
+
+_3": "<url>",
+    "right_answer": "<a>"
+  },
+  {
+    "title": "Which Tag Is Used To Define A Section In A Document",
+    "answer_0": "<section>",
+    "answer_1": "<div>",
+    "answer_2": "<article>",
+    "answer_3": "<span>",
+    "right_answer": "<section>"
+  },
+  {
+    "title": "Which Tag Is Used To Define A Container For External Content",
+    "answer_0": "<iframe>",
+    "answer_1": "<div>",
+    "answer_2": "<span>",
+    "answer_3": "<embed>",
+    "right_answer": "<iframe>"
+  },
+  {
+    "title": "Which Tag Is Used To Define A Group Of Options In A Drop-down List",
+    "answer_0": "<optgroup>",
+    "answer_1": "<option>",
+    "answer_2": "<select>",
+    "answer_3": "<group>",
+    "right_answer": "<optgroup>"
+  },
+  {
+    "title": "Which Tag Is Used To Define A Table Cell",
+    "answer_0": "<td>",
+    "answer_1": "<tr>",
+    "answer_2": "<th>",
+    "answer_3": "<table>",
+    "right_answer": "<td>"
+  },
+  {
+    "title": "Which Attribute Is Used To Specify The Destination Of A Hyperlink",
+    "answer_0": "href",
+    "answer_1": "src",
+    "answer_2": "alt",
+    "answer_3": "link",
+    "right_answer": "href"
+  },
+  {
+    "title": "Which Tag Is Used To Define A List Item",
+    "answer_0": "<li>",
+    "answer_1": "<ul>",
+    "answer_2": "<ol>",
+    "answer_3": "<item>",
+    "right_answer": "<li>"
+  },
+  {
+    "title": "Which Tag Is Used To Define Metadata About The Document",
+    "answer_0": "<meta>",
+    "answer_1": "<head>",
+    "answer_2": "<link>",
+    "answer_3": "<script>",
+    "right_answer": "<meta>"
+  },
+  {
+    "title": "Which Tag Is Used To Define A Navigation Section",
+    "answer_0": "<nav>",
+    "answer_1": "<header>",
+    "answer_2": "<footer>",
+    "answer_3": "<section>",
+    "right_answer": "<nav>"
+  },
+  {
+    "title": "Which Tag Is Used To Define An Inline Frame",
+    "answer_0": "<iframe>",
+    "answer_1": "<embed>",
+    "answer_2": "<object>",
+    "answer_3": "<div>",
+    "right_answer": "<iframe>"
+  },
+  {
+    "title": "Which Tag Is Used To Define A Block Of Quoted Text",
+    "answer_0": "<blockquote>",
+    "answer_1": "<q>",
+    "answer_2": "<cite>",
+    "answer_3": "<quote>",
+    "right_answer": "<blockquote>"
+  },
+  {
+    "title": "Which Attribute Is Used To Specify The URL Of A Linked Resource",
+    "answer_0": "href",
+    "answer_1": "src",
+    "answer_2": "link",
+    "answer_3": "url",
+    "right_answer": "href"
+  },
+  {
+    "title": "Which Tag Is Used To Define A Line Break",
+    "answer_0": "<br>",
+    "answer_1": "<hr>",
+    "answer_2": "<lb>",
+    "answer_3": "<break>",
+    "right_answer": "<br>"
+  },
+  {
+    "title": "Which Tag Is Used To Define A Group Of Table Rows",
+    "answer_0": "<tbody>",
+    "answer_1": "<thead>",
+    "answer_2": "<tfoot>",
+    "answer_3": "<tr>",
+    "right_answer": "<tbody>"
+  },
+  {
+    "title": "Which Attribute Is Used To Specify The Width Of An Image",
+    "answer_0": "width",
+    "answer_1": "height",
+    "answer_2": "size",
+    "answer_3": "dim",
+    "right_answer": "width"
+  },
+  {
+    "title": "Which Tag Is Used To Define A Caption For A Table",
+    "answer_0": "<caption>",
+    "answer_1": "<table>",
+    "answer_2": "<thead>",
+    "answer_3": "<title>",
+    "right_answer": "<caption>"
   }
 ]
-
