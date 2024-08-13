@@ -1,6 +1,6 @@
 # 🎉 Quiz App
 
-Welcome to the **Quiz App**! This interactive application allows users to test their knowledge across various domains. With questions on HTML, CSS, and more, it’s a great tool for both learning and entertainment.
+Welcome to the **Quiz App**! This interactive application allows users to test their knowledge across various domains. With questions on HTML, CSS, and more, it’s a great tool for both learning and entertainment.Quiz App outlines the user experience from start to finish. The quiz begins with the user selecting a category, such as HTML or CSS, which determines the set of questions that will be loaded from the corresponding JSON files. Once the questions are loaded, the app displays them one by one, allowing the user to submit their answers. After each submission, the app provides immediate feedback, indicating whether the answer was correct or incorrect. The process continues until all questions have been answered. Finally, the app calculates the user's score and displays the results, marking the end of the quiz.
 
 ## 📜 Table of Contents
 
