@@ -2,6 +2,12 @@
 
 Welcome to the **Quiz App**! This interactive application allows users to test their knowledge across various domains. With questions on HTML, CSS, and more, it’s a great tool for both learning and entertainment.Quiz App outlines the user experience from start to finish. The quiz begins with the user selecting a category, such as HTML or CSS, which determines the set of questions that will be loaded from the corresponding JSON files. Once the questions are loaded, the app displays them one by one, allowing the user to submit their answers. After each submission, the app provides immediate feedback, indicating whether the answer was correct or incorrect. The process continues until all questions have been answered. Finally, the app calculates the user's score and displays the results, marking the end of the quiz.
 
+- **Category Selection**: Users can choose between HTML and CSS quiz categories.
+- **Dynamic Questions**: Questions are loaded from JSON files specific to the selected category.
+- **Interactive Feedback**: Immediate feedback is provided for each submitted answer, showing whether it's correct or incorrect.
+- **Real-Time Scoring**: The app tracks and displays the user's score as they progress through the quiz.
+- **Responsive Design**: The app is designed to work smoothly across different devices and screen sizes.
+
 ## 📜 Table of Contents
 
 - [Features](#-features)
