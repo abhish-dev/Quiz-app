@@ -1,0 +1,59 @@
+[
+  {
+    "title" : "What's The Property That Controle The Shadow Of Block Element In CSS3",
+    "answer_0" : "box-shadow",
+    "answer_1" : "element-shadow",
+    "answer_2" : "text-shadow",
+    "answer_3" : "All Answers Is Right",
+    "right_answer" : "box-shadow"
+  },
+  {
+    "title" : "How Can WE Make Font Bold in CSS",
+    "answer_0" : "font-style: bold",
+    "answer_1" : "font-weight: bold",
+    "answer_2" : "font-weight: 400",
+    "answer_3" : "font-family: bold",
+    "right_answer" : "font-weight: bold"
+  },
+  {
+    "title" : "What's Property Of Transform",
+    "answer_0" : "Scale",
+    "answer_1" : "Translate",
+    "answer_2" : "Rotate",
+    "answer_3" : "All Right",
+    "right_answer" : "All Right"
+  },
+  {
+    "title" : "What's Property Exists In CSS3",
+    "answer_0" : "box-shadow",
+    "answer_1" : "border-radius",
+    "answer_2" : "box-sizing",
+    "answer_3" : "All Exists",
+    "right_answer" : "All Exists"
+  },
+  {
+    "title" :  "What's The Property That Is Exists In CSS",
+    "answer_0" : "clamp()",
+    "answer_1" : "paint()",
+    "answer_2" : "sepia()",
+    "answer_3" : "All Is Exists",
+    "right_answer" : "All Is Exists"
+  },
+  {
+    "title" : "What's Property That Not Exists in Css3",
+    "answer_0" : "Transition",
+    "answer_1" : "Animation",
+    "answer_2" : "Box Sizing",
+    "answer_3" : "All Properties Exists In Css3",
+    "right_answer" : "All Properties Exists In Css3"
+  },
+  {
+    "title" : "How Can We Add 4 Elements With Identical Width Inside Container With 1000px",
+    "answer_0" : "width: 250px",
+    "answer_1" : "width: calc(100% / 4)",
+    "answer_2" : "width: 25%",
+    "answer_3" : "All Is Right",
+    "right_answer" : "All Is Right"
+  }
+
+]
